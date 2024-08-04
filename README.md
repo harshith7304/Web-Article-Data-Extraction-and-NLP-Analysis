@@ -15,7 +15,6 @@ This project aims to extract textual data from a list of web articles and perfor
 - **Python:** Primary programming language.
 - **Libraries:**
   - `BeautifulSoup`: For web scraping.
-  - `Selenium`: For dynamic content extraction (if needed).
   - `Scrapy`: For more complex crawling tasks.
   - `TextBlob`: For text analysis.
   - `pandas`: For data manipulation and storage.
